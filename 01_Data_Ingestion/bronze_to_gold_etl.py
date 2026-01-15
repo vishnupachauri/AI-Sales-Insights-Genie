@@ -1,6 +1,3 @@
-this solution i use to create this - and i am also attached some screenshort and tell me that i am created successfully what is required 
-
-# notebook: 01_Ingestion/bronze_to_gold_etl.py
 from pyspark.sql.functions import col, to_date, month, year, expr
 
 catalog = "ai-sales-insights-genie"
